@@ -45,3 +45,6 @@ events:
       - {name: "Booster Conf", role: "Coach"}
       - {name: "Codemotion Amsterdam", role: "Speaker"}
       - {name: "RustFest Kyiv", role: "Organizer"}
+      - {name: "Nardoz Buenos Aires", role: "Speaker"}
+      - {name: "JS Kongress Munich", role: "Speaker"}
+      - {name: "Rust Hungary", role: "Speaker"}
