@@ -43,8 +43,11 @@ events:
   - year: 2017
     events:
       - {name: "Booster Conf", role: "Coach"}
-      - {name: "Codemotion Amsterdam", role: "Speaker"}
       - {name: "RustFest Kyiv", role: "Organizer"}
+      - "beyond tellerrand"
+      - {name: "Codemotion Amsterdam", role: "Speaker"}
       - {name: "Nardoz Buenos Aires", role: "Speaker"}
+      - "NightlyBuild"
       - {name: "JS Kongress Munich", role: "Speaker"}
+      - "GOTO Berlin"
       - {name: "Rust Hungary", role: "Speaker"}
